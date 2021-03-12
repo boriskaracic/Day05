@@ -7,9 +7,7 @@ function main() {
 
     //Only change code above this line
 
-    return {
-        firstLetterOfLastName,
-    };
+    return firstLetterOfLastName;
 }
 
 console.log(main());
