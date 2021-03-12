@@ -6,9 +6,7 @@ function main() {
 
     //Only change code above this line
 
-    return {
-        myString,
-    };
+    return myString;
 }
 
 console.log(main());
