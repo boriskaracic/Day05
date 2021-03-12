@@ -5,9 +5,7 @@ function main() {
 
     //Only change code above this line
 
-    return {
-        myLink,
-    };
+    return myLink;
 }
 
 console.log(main());
